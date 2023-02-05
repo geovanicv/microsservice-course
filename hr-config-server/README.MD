@@ -1,0 +1,1 @@
+Foi criado um repositório no github com os arquivos de configuração: https://github.com/geovanicv/microsservice-course-config
